@@ -1,0 +1,9 @@
+# backend
+## モジュール
+node_modules/
+
+## distフォルダ　TS→JS変換後出力フォルダ
+dist/
+
+## 環境設定
+.env
